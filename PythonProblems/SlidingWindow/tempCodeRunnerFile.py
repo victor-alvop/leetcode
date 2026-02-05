@@ -1,1 +1,1 @@
-len(string)
+end_idx
