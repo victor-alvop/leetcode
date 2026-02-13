@@ -4,8 +4,6 @@ def longestOnes(nums, k):
     current_flips = k
     max_consecutive = 0
 
-    print(" innit start", start_idx, "- end", end_idx)
-
     while start_idx < len(nums):
         
         if end_idx == len(nums):
