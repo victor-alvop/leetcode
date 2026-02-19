@@ -24,7 +24,6 @@ def maxSlidingWindow(nums, k):
 #test values
 nums_1 = [1,3,-1,-3,5,3,6,7]
 k_1 = 3
-
 #test cases
 test_case_1 = maxSlidingWindow(nums_1, k_1)
 print(test_case_1)
